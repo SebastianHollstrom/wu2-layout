@@ -1,0 +1,19 @@
+
+.container{
+    background-color: whitesmoke;
+    max-width: 80ch;
+    margin-inline: auto;
+    padding: 1rem;
+}
+nav{
+    display: flex;
+    gap: 3rem;
+    a{
+        text-decoration: none;
+        font-family: fantasy;
+    }
+}
+img{
+    max-width: 100%;
+    width: 100%;
+}
