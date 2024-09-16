@@ -6,6 +6,9 @@
     padding: 1rem;
 }
 nav{
+    position: sticky;
+    background-color: whitesmoke;
+    top:0;
     display: flex;
     gap: 3rem;
     a{
